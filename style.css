@@ -1,0 +1,51 @@
+body {
+    background-image: url("/assets/game-of-thrones.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: black;
+    
+    
+}
+
+
+
+h1 {
+    text-align: center;
+    color: #AE1C22;
+    font-size: 80px;
+    text-shadow: 2px 2px 2px rgb(255, 0, 0);
+    
+    
+}
+
+
+
+img {
+    max-height: 200px;
+    float: left;
+    padding-right: 50px;
+}
+
+
+h2 {
+    color:#fff;
+    font-size: 60px;
+    font-family:sans-serif;
+    font-kerning:normal;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+p {
+    color: #fff;
+    font-size: large;
+    font-family:sans-serif;
+    line-height: 2em;
+    
+}
+
